@@ -5,6 +5,9 @@
 A data-driven **HR analytics dashboard** that helps organizations visualize, understand, and predict employee attrition. Built with **Python, Streamlit, and Machine Learning**, it translates HR data into clear, actionable insights for better workforce retention.
 
 ---
+![Landing Page](Screenshots/img-1.png)
+
+![Landing Page](Screenshots/img-3.png)
 
 ## Overview
 
